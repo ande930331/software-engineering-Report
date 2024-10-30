@@ -1,1 +1,2 @@
-# software-engineering-Report
+# 軟體工程期中報告
+組員:  11124111 王志節、11124114 黃安德
